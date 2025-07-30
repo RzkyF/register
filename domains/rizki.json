@@ -4,6 +4,7 @@
         "email": "rizkifadillah616@outlook.co.id"
     },
     "records": {
-        "CNAME": "rzkyf.github.io"
+        "CNAME": "rzkyf.github.io",
+        "TXT" : ["_github-pages-challenge-RzkyF","3346da19305f5dc8b46f276b13e24b"]
     }
 }
